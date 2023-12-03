@@ -1,0 +1,2 @@
+Download train.csv file from the below link
+link : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUlNTE1DcXgwVjRDWVRaZ1ZFWndnbzI5V3JuQXxBQ3Jtc0trOE1aaFZLcVJIUjlId1A3RUhPQWRnblJyUE5rcE1Hb0FFZVFYMnFlTmRmdExJM3NYdkstTjhUOFd4aGI1dzI0YUhNeTRmaFJBT0V1LTM4RlVPWThmc29aZmZzdlZQSlNlVXJQQ3hHSHFyaFBmNG9Gaw&q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ffake-news%2Fdata%3Fselect%3Dtrain.csv&v=nacLBdyG6jE

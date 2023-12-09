@@ -3,7 +3,7 @@ import streamlit as st
 # import numpy as np
 
 # loading the saved models
-with open('vectorizer.pkl', 'rb') as file:
+with open('content/vectorizer.pkl', 'rb') as file:
     vectorizer = pickle.load(file)
 
 with open('fake_news.sav', 'rb') as file:

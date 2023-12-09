@@ -3,7 +3,7 @@ import streamlit as st
 # import numpy as np
 
 # loading the saved models
-with open('vectorizer.pkl', 'rb') as file:
+with open('https://github.com/Tejas-Pulli/Fake-News-Detection/blob/main/vectorizer.pkl', 'rb') as file:
     vectorizer = pickle.load(file)
 
 with open('fake_news.sav', 'rb') as file:
